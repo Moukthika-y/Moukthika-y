@@ -5,27 +5,15 @@
 -->
 
 ### About Me
-👋 Hi, I’m Moukthika — a B.Tech CSE sophomore & aspiring Data Analyst. 
-💻 I love building projects that combine Python, data analysis, and machine learning.  
-
-### 🔭 I’m currently working on
-- Mini projects using programming languages like C,Python,JAVA
-- My GitHub portfolio to showcase college & personal projects  
-
-### 🌱 I’m currently learning
-- Design Analysis of Algorithms 
-- SQL for data analysis  
-- Data cleaning and preprocessing
-- Basics of Machine Learning  
-
-### 👯 I’m looking to collaborate on
-- Open-source Python projects  
-- ML/data analysis projects suitable for beginners and intermediate learners  
-
-### 🤔 I’m looking for help with
-- Advanced ML techniques and practical implementation tips  
-- Best practices for building professional GitHub portfolios  
+👋 Hi, I’m Moukthika — B.Tech CSE sophomore & aspiring Data Analyst.  
+💻 I enjoy building projects in Python, Java, and C, focusing on data analysis & ML.  
+🌱 Currently learning SQL, DAA, data preprocessing, and ML basics.  
+🔭 Working on mini projects and my GitHub portfolio.  
+👯 Open to collaborating on Python, ML, and data analysis projects.
 
 ### 📫 How to reach me
 - LinkedIn: [www.linkedin.com/in/moukthika-yallayi-13b18b345]  
-- Email: [yallayimoukthika@gmail.com]  
+- Email: [yallayimoukthika@gmail.com]
+
+![Moukthika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moukthika-y&show_icons=true&theme=radical)
+
