@@ -15,5 +15,5 @@
 - LinkedIn: [www.linkedin.com/in/moukthika-yallayi-13b18b345]  
 - Email: [yallayimoukthika@gmail.com]
 
-![Moukthika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moukthika-y&show_icons=true&theme=radical)
+
 
