@@ -5,7 +5,7 @@
 -->
 
 ### About Me
-👋 Hi, I’m Moukthika — B.Tech CSE sophomore & aspiring Data Analyst.  
+👋 Hi, I’m Moukthika, B.Tech CSE sophomore & aspiring Data Analyst.  
 💻 I enjoy building projects in Python, Java, and C, focusing on data analysis & ML.  
 🌱 Currently learning SQL, DAA, data preprocessing, and ML basics.  
 🔭 Working on mini projects and my GitHub portfolio.  
