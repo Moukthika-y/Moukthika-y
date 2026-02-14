@@ -12,7 +12,7 @@
 👯 Open to collaborating on Python, ML, and data analysis projects.
 
 ### 📫 How to reach me
-- LinkedIn: [www.linkedin.com/in/moukthika-yallayi-13b18b345]  
+- LinkedIn: [www.linkedin.com/in/yallayim]  
 - Email: [yallayimoukthika@gmail.com]
 
 
