@@ -5,11 +5,12 @@
 -->
 
 ### About Me
-👋 Hi, I’m Moukthika, B.Tech CSE sophomore & aspiring Data Analyst.  
-💻 I enjoy building projects in Python, Java, and C, focusing on data analysis & ML.  
-🌱 Currently learning SQL, DAA, data preprocessing, and ML basics.  
-🔭 Working on mini projects and my GitHub portfolio.  
-👯 Open to collaborating on Python, ML, and data analysis projects.
+👋 Hey there! I'm Moukthika.
+🎓 3rd-year Computer Science student.
+📊 Passionate about Data Analytics, Machine Learning, and solving real-world problems with data.
+💻 Working with Python, SQL, Pandas, NumPy, and Java.
+📚 Currently exploring Power BI, ML, and advanced data analysis techniques.
+🤝 Always open to collaboration and learning something new.
 
 ### 📫 How to reach me
 - LinkedIn: [www.linkedin.com/in/yallayim]  
